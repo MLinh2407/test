@@ -22,7 +22,7 @@ body {
 /* Background and Logo */
 .img-background {
     background-image: url(./src/halie-west-25xggax4bSA-unsplash.jpg);
-    width: 50vw;
+    width: 30vw;
     height: 100vh;
     background-size: cover;
     display: flex;
@@ -64,8 +64,8 @@ body {
 
 
 /* Intro and Sign-up Form */
-.sign-n {
-    width: 50vw;
+.form-side {
+    width: 70vw;
     background-color: #f9fafb;
 }
 
